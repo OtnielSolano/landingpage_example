@@ -1,0 +1,9 @@
+#bgimg {
+  height: 100vh;
+  background-image: url("https://www.businessoffashion.com/articles/news-analysis/site/uploads/2019/05/Creed.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h3 {
+  border-bottom: 2px solid white;
+}
